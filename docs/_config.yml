@@ -3,4 +3,8 @@
 
 remote_theme: "jekyll/minima@1e8a445"
 
-include: _posts
+include: _posts, _lectures
+
+collections:
+  - lectures
+      output: true
