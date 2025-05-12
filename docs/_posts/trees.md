@@ -1,0 +1,7 @@
+# Trees
+
+Let's talk about what trees are, and what they aren't. 
+
+We WON'T talk about the fact that Computer Scientists seem 
+to think that trees grow DOWN, not up... too much time in the 
+lab and not in nature. (Alan Turing wouldn't approve...)
